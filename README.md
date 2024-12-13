@@ -1,8 +1,4 @@
 # Stock Market Prediction Time Series Algo
- 
-# Define the content of the README.md file
-readme_content = """
-# Stock Forecast App
 
 ## Overview
 
